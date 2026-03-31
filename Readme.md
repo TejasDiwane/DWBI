@@ -1,16 +1,12 @@
 # 📊 DWBI Project — Node.js + Prometheus + Grafana Monitoring Stack
 
-![](../Users/ASUS/github/DWBI/week-26-prom/image-1.png)
-
-![](../Users/ASUS/github/DWBI/week-26-prom/image-2.png)
-
-![](../Users/ASUS/github/DWBI/week-26-prom/image-3.png)
-
-![](../Users/ASUS/github/DWBI/week-26-prom/image.png)
-
 A production-ready **Express.js** application instrumented with **Prometheus** metrics and visualized via **Grafana** — all containerized with Docker.
 
 ---
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## 📁 Project Structure
 
